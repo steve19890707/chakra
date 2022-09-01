@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chakra/static/css/main.61c0e92e.css",
+    "main.js": "/chakra/static/js/main.d2cef104.js",
+    "static/js/787.b864ae92.chunk.js": "/chakra/static/js/787.b864ae92.chunk.js",
+    "index.html": "/chakra/index.html",
+    "main.61c0e92e.css.map": "/chakra/static/css/main.61c0e92e.css.map",
+    "main.d2cef104.js.map": "/chakra/static/js/main.d2cef104.js.map",
+    "787.b864ae92.chunk.js.map": "/chakra/static/js/787.b864ae92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c0e92e.css",
+    "static/js/main.d2cef104.js"
+  ]
+}
